@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Olivier Huet"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_20190323_153233669.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
