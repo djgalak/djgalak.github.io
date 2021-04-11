@@ -1,4 +1,4 @@
 ---
-permalink: /baking/
+permalink: /ibaking/
 ---
 To be built
