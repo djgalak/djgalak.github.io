@@ -1,8 +1,4 @@
 main:
-  - title: "Baking"
-    url: /baking/
-  - title: "Coding"
-    url: /coding/
   - title: "Tags"
     url: /tags/
   - title: "About"

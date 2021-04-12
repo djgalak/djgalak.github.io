@@ -113,8 +113,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-collections:
-  baking:
-    output:
-    permalink: /baking/
-    layout: "default"
