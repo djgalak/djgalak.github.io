@@ -46,6 +46,12 @@ layout: default
 		<li itemprop="recipeIngredient"> {{ ingredient[1] }} {{ ingredient[0] }}</li>
 		{% endfor %}
 	  </ul>
+	<div itemprop="recipeInstructions">
+	<h3>Instructions</h3>
+	<ol>
+	  <li>{{ page.instructions | join: '</li> <li>' }}</li>
+	</ol>
+	</div>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
