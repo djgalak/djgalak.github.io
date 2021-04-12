@@ -1,6 +1,7 @@
 ---
 title: "first recipe"
-category: baking
+categories:
+  - baking
 ingredients:
   all purpose flour: 550g
   water: 420g
