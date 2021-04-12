@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Oliv'"
   avatar : "/assets/images/biography_picture.jpg"
-  bio    : "French guy based in NJ, trying to overcome the cliches"
+  bio    : "French guy based in New Jersey, trying to overcome the cliches"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
