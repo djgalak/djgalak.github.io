@@ -1,11 +1,5 @@
 ---
 title: "Test recipe Layout"
-date: 2021-04-12T17:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
 layout: recipe
 ---
 
