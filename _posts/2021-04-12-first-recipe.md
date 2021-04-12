@@ -6,6 +6,7 @@ ingredients:
 instructions:
   - Mix flour, water, salt and starter
   - Leave alone for 30min
+intro: This is the go to recipe for batard bread... 
 layout: recipe
 ---
 

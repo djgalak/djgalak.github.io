@@ -40,6 +40,9 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+	{% if page.intro %}
+		{{ page.intro }}
+	{% endif %}
 	<h3>Ingredients</h3>
 	  <ul>
 		{% for ingredient in page.ingredients %}
