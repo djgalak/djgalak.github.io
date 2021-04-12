@@ -1,7 +1,4 @@
 ---
-ingredients:
-	all purpose flour: 550g
-	water: 420g
 title: "first recipe"
 layout: recipe
 ---
