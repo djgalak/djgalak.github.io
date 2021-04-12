@@ -5,7 +5,7 @@ ingredients:
   water: 420g
 instructions:
   - Mix flour, water, salt and starter
-  - leave alone for 30min
+  - Leave alone for 30min
 layout: recipe
 ---
 
