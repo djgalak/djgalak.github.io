@@ -41,6 +41,11 @@ layout: default
           </aside>
         {% endif %}
 	<h3>Ingredients</h3>
+	  <ul>
+		{% for ingredient in page.ingredients %}
+		<li itemprop="ingredients"> {{ ingredient[1] }} {{ ingredient[0] }}</li>
+		{% endfor %}
+	  </ul>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
