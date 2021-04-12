@@ -14,9 +14,9 @@ instructions:
   - Leave alone for 30 min
   - Repeat the stretch and fold and resting 2 or 3 times depending how the dough is. As the gluten network forms, the dough should become stronger.
   - Put it in the fridge overnight
-  - Next day, split the dough in half, and pre-shape each "p√ton"
+  - Next day, split the dough in half, and pre-shape each "paton"
   - Leave alone 15 min
-  - Shape each p√ton
+  - Shape each paton
   - Pre-heat your oven at 500F with the dutch oven in
   - Leave alone for 1 to 2 hours
   - Score 1 of the dough
