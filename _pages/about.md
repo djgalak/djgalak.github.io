@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-layout: recipe
 title: "About"
 ---
 
