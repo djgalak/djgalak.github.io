@@ -1,7 +1,7 @@
 ---
 title: "first recipe"
 ingredients:
-  all purposer flour: 550g
+  all purpose flour: 550g
   water: 420g
 instructions:
   - Mix flour, water, salt and starter
