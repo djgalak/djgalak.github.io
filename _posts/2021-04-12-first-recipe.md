@@ -1,5 +1,7 @@
 ---
 title: "first recipe"
+ingredients:
+  water: 550g
 layout: recipe
 ---
 
