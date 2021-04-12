@@ -1,5 +1,5 @@
 ---
-title: "first recipe"
+title: Every day bread
 categories:
   - baking
 ingredients:
