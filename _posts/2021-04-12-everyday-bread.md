@@ -3,7 +3,7 @@ title: My every day bread
 categories:
   - baking
 header:
-  image: /assets/images/everyday_bread.jpg
+  image: /assets/images/everyday_bread-min.jpg
 ingredients:
   all purpose flour: 550g
   water: 420g
