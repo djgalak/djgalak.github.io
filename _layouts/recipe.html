@@ -22,9 +22,7 @@ layout: default
     "image": "https://djgalak.github.io/assets/images/biography_picture.jpg",
     "description": "{{ page.excerpt }}",
     "recipeIngredient": [
-      {% for ingredient in page.ingredients %}
-        {{ ingredient[1] }} {{ ingredient[0] }},
-      {% endfor %}
+      {{ page.ingredients | join: ',' }}
     ]
   }
 </script>
