@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale : "fr-FR"
+locale : "fr-FR" #Only usefull if import _data/ui-text
 title: dj galak 
 subtitle: personal thoughts
 email: tchewit@gmail.com
