@@ -5,12 +5,12 @@ categories:
 header:
   image: /assets/images/everyday_bread_narrow-min.jpg
 ingredients:
-  farine (11,7% prot√ine) : 550g
+  farine (11,7% proteine) : 550g
   eau: 420g
   sel: 14g
   levain: 180g
 instructions:
-  - M√langer la farine, l'eau, le sel et le levain
+  - Melanger la farine, l'eau, le sel et le levain
   - Leave alone for 30min
   - Stretch and fold
   - Leave alone for 30 min
