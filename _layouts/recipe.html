@@ -19,7 +19,7 @@ layout: default
     "@context": "http://schema.org/",
     "@type": "Recipe",
     "name": "{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}",
-    "image": "https://djgalak.github.io/assets/images/biography_picture.jpg",
+    "image": "{{ page.image }}"
     "description": "{{ page.excerpt }}",
     "recipeIngredient": [
       {% for ingredient in page.ingredients %}
