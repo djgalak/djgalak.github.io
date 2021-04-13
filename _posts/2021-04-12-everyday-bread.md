@@ -10,7 +10,7 @@ ingredients:
   sel: 14g
   levain: 180g
 instructions:
-  - Melanger la farine, l'eau, le sel et le levain
+  - Melanger la farine, l'eau, le sel et le levain juste assez pour que les ingrédients soient assemblés
   - Leave alone for 30min
   - Stretch and fold
   - Leave alone for 30 min
