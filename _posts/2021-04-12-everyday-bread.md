@@ -1,5 +1,5 @@
 ---
-title: Every day bread
+title: My every day bread
 categories:
   - baking
 ingredients:
@@ -23,7 +23,7 @@ instructions:
   - Put the dough in the dutch oven with the lid on and in the oven for 25min
   - Turn down the temperature to 400F and take off the lid
   - Leave in the oven for another 10-15min
-intro: This is the go to recipe for batard bread... 
+intro: This is my go to recipe for batard bread... 
 layout: recipe
 ---
 

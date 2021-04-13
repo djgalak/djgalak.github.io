@@ -1,4 +1,6 @@
 ---
-permalink: /ibaking/
+title: Baking
+layout: category
+permalink: /categories/baking/
+taxonomy: baking
 ---
-To be built
