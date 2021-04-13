@@ -23,7 +23,7 @@ layout: default
     "description": "{{ page.excerpt }}",
     "recipeIngredient": [
       {% for ingredient in page.ingredients %}
-        {{ingredient[1]}} {{ingredient[0]}} {% if forloop.last == false %},{% endif %}
+        "{{ingredient[1]}} {{ingredient[0]}}" {% if forloop.last == false %},{% endif %}
       {% endfor %}
     ]
   }
