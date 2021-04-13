@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: dj galak 
-locale: "fr-FR"
+locale: "fr"
 subtitle: personal thoughts
 email: tchewit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
