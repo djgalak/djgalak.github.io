@@ -1,5 +1,5 @@
 main:
-  - title: "Tags"
-    url: /tags/
+  - title: "Baking"
+    url: /categories/baking/
   - title: "About"
     url: /about/
