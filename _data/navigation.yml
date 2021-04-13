@@ -1,5 +1,9 @@
 main:
   - title: "Baking"
     url: /categories/baking/
-  - title: "About"
+ - title: "Coding"
+    url: /categories/coding/
+ - title: "Errands"
+    url: /categories/errands/
+ - title: "About"
     url: /about/

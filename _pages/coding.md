@@ -1,4 +1,6 @@
 ---
-permalink: /coding/
+title: Coding
+layout: category
+permalink: /categories/coding/
+taxonomy: coding
 ---
-To be Built to show coding posts
