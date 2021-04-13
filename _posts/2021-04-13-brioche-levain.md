@@ -5,12 +5,12 @@ categories:
 header:
   image: /assets/images/everyday_bread_narrow-min.jpg
 ingredients:
-  farine (11,7% prot√ine) : 550g
-  eau: 420g
-  sel: 14g
-  levain: 180g
+  all purpose flour: 550g
+  water: 420g
+  salt: 14g
+  sourdough starter: 180g
 instructions:
-  - M√langer la farine, l'eau, le sel et le levain
+  - Mix flour, water, salt and starter just enough so all ingredients are together.
   - Leave alone for 30min
   - Stretch and fold
   - Leave alone for 30 min
