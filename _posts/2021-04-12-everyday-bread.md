@@ -5,12 +5,13 @@ categories:
 header:
   image: /assets/images/everyday_bread_narrow-min.jpg
 ingredients:
-  farine (11,7% proteine) : 550g
+  farine (11,7% de protéine) : 550g
   eau: 420g
   sel: 14g
   levain: 180g
 instructions:
-  - Melanger la farine, l'eau, le sel et le levain juste assez pour que les ingrédients soient assemblés
+  - Mélanger la farine, l'eau, le sel et le levain juste assez pour que les ingrédients soient assemblés
+  - Laisser reposer pendant 30min. C'est l'étape d'autolyse
   - Leave alone for 30min
   - Stretch and fold
   - Leave alone for 30 min
