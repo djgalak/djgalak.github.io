@@ -22,7 +22,15 @@ instructions:
   - Rabattre la pate, puis former une boule avec le scrapper
   - Laisser reposer 30min
   - Répéter les 2 étapes précédentes jusqu'à ce que le réseau de gluten soit assez formé
-intro: This is my go to recipe for batard bread... 
+  - Laisser reposer au réfrigérateur jusqu'au lendemain 
+  - Étirer la pâte, pré-façonner et laisser reposer 20min
+  - Beurrer le moule
+  - Façonner la pâte, et la placer dans le moule
+  - Laisser pousser la pâte 6h
+  - Préchauffer le four à 410F
+  - Badigeonner de jaune d'oeuf (ou juste de l'eau)
+  - Enfourner environ 30min
+intro: La recette de brioche au levain.Sans doute encore quelques retouches à faire, mais déjà un beau succès.
 layout: recipe
 ---
-Here you go, the easiest bread recipe you'll find!
+La recette (et surtout les ingrédients) proviennent de http://sourdough.com/recipes/brioche. Les instructions et la préparation est un dérivé de la recette de pain, adaptée pour la brioche.
