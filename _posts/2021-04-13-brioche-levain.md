@@ -28,7 +28,7 @@ instructions:
   - Façonner la pâte, et la placer dans le moule
   - Laisser pousser la pâte 6h
   - Préchauffer le four à 410F
-  - Badigeonner de jaune d'oeuf (ou juste de l'eau)
+  - Dorer au jaune d'oeuf ou à l'eau
   - Enfourner environ 30min
 intro: La recette de brioche au levain.Sans doute encore quelques retouches à faire, mais déjà un beau succès.
 layout: recipe
