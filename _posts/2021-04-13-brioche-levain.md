@@ -3,7 +3,7 @@ title: La brioche au levain
 categories:
   - baking
 header:
-  image: /assets/images/everyday_bread_narrow-min.jpg
+  image: /assets/images/brioche_min.jpg
 ingredients:
   farine (11,7% protéine): 400g
   sucre: 35g
