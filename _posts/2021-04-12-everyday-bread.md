@@ -1,5 +1,5 @@
 ---
-title: My every day bread
+title: Le pain de tous les jours
 categories:
   - baking
 header:
