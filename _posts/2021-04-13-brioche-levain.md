@@ -1,5 +1,5 @@
 ---
-title: My every day bread
+title: La brioche au levain
 categories:
   - baking
 header:
