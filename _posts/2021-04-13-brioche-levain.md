@@ -33,4 +33,4 @@ instructions:
 intro: La recette de brioche au levain.Sans doute encore quelques retouches à faire, mais déjà un beau succès.
 layout: recipe
 ---
-La recette (et surtout les ingrédients) proviennent de http://sourdough.com/recipes/brioche. Les instructions et la préparation est un dérivé de la recette de pain, adaptée pour la brioche.
+La recette (et surtout les ingrédient) sont inspirés de http://sourdough.com/recipes/brioche. Les instructions et la préparation est un dérivé de la recette de pain, adaptée pour la brioche.
