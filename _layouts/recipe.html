@@ -30,7 +30,7 @@ layout: default
       {% for instruction in page.instructions %}
         {
           "@type": "HowToStep",
-          "text": "{{instruction[0]}}"
+          "text": "{{instruction}}"
         }{% if forloop.last == false %},{% endif %}
       {% endfor %}
     ],
