@@ -31,7 +31,7 @@ layout: default
         {
           "@type": "HowToStep",
           "text": "{{instruction[0]}}"
-        }
+        }{% if forloop.last == false %},{% endif %}
       {% endfor %}
     ],
     "cookTime": "{{page.cookTime}}",
