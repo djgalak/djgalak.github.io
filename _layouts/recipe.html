@@ -25,7 +25,18 @@ layout: default
       {% for ingredient in page.ingredients %}
         "{{ingredient[1]}} {{ingredient[0]}}" {% if forloop.last == false %},{% endif %}
       {% endfor %}
-    ]
+    ],
+    "recipeInstructions": [
+      {% for instruction in page.instructions %}
+        {
+          "@type": "HowToStep",
+          "text": "{{instruction[0]}}"
+        }
+      {% endfor %}
+    ],
+    "cookTime": "{{page.cookTime}}",
+    "prepTime": "{{page.prepTime}}",
+    "cuisine": "boulangerie"
   }
 </script>
 
