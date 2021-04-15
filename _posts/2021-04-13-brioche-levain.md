@@ -33,6 +33,7 @@ instructions:
 intro: La recette de brioche au levain.Sans doute encore quelques retouches à faire, mais déjà un beau succès.
 layout: recipe
 ---
-Le résultat est une belle brioche bien dorée, au bon goût de beurre (avec la quantité de beurre de la recette, l'inverse serait étonnant!). Les proportions des ingrédients est repris de [sourdough brioche], et la préparation s'inspire de la recette de pain.
+Le résultat est une belle brioche bien dorée, au bon goût de beurre (avec la quantité de beurre de la recette, l'inverse serait étonnant!).
+Les proportions des ingrédients est repris de [sourdough brioche], et la préparation s'inspire de la recette de pain.
 
 [sourdough brioche]: https://www.sourdough.com/recipes/brioche
