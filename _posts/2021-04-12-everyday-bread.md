@@ -24,6 +24,8 @@ instructions:
   - Grigner le premier pâton et placer le dans la cocotte, puis enfourner la cocotte pendant 25 min, avec le couvercle, sans baisser la température du four
   - Après 25min, découvrer la cocotte et baisser la teérature du four à environ 410F
   - Sortir du four après 10-15 min suivant votre goût
+cookTime: PT45M
+prepTime: PT20H
 intro: Ma recette de pain pour 2 bâtards.
 layout: recipe
 ---
