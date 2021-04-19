@@ -118,7 +118,7 @@ collections:
   - recipes
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-9MK07E6W1H"
     anonymize_ip: false
