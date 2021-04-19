@@ -116,3 +116,9 @@ tag_archive:
 
 collections:
   - recipes
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-9MK07E6W1H"
+    anonymize_ip: false
