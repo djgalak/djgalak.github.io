@@ -13,7 +13,7 @@ ingredients:
   levain: 90g
   beurre: 60g
 instructions:
-  - Mélanger la farine, l'ea, le lait, le sel, le sucre et le levain juste assez pour que les ingrédients soient assemblés
+  - Mélanger la farine, l'eau, le lait, le sel, le sucre et le levain juste assez pour que les ingrédients soient assemblés
   - Laisser reposer pendant 30min. C'est l'étape d'autolyse
   - Faire un premier façonnage. Mettre la pâte sur le plan de travail et faire des rabats à droite, à gauche, par l'avant puis enfin par l'arrière.
   - Reformer une boule avec la pâte puis laisser reposer de nouveau 30 minutes
